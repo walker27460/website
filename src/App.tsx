@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           class={styles.link}
-          href="https://github.com/solidjs/solid"
+          href="https://solidjs.com"
           target="_blank"
           rel="noopener noreferrer"
         >
